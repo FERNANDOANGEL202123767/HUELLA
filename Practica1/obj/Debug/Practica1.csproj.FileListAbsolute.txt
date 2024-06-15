@@ -1,0 +1,58 @@
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\nikew\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\nikew\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\nikew\source\repos\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form3.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form4.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form5.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form6.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form7.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form8.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form9.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form10.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form11.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form12.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form13.resources
+C:\Users\nikew\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form14.resources
+C:\Users\maenc\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\maenc\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\maenc\source\repos\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\maenc\source\repos\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\Administrador\Documents\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.Form3.resources
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.Form3.resources
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\Administrador\Documents\semestre5\zamora\Proyecto_Arduino\Programa Visual\Practica1\Practica1\obj\Debug\Practica1.pdb
